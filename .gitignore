@@ -1,0 +1,7 @@
+venv
+__pycache__
+.mypy_cache
+.env
+scripts/temp/*
+!scripts/temp/.gitkeep
+app/data
