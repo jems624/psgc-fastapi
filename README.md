@@ -2,6 +2,8 @@
 
 Based on https://psgc.gitlab.io/api/, but tweaked to suite my project's needs and updated to use the latest data from the [Philippine Statistics Authority](https://psa.gov.ph/). Try it out here: https://psgc-fastapi.onrender.com/docs.
 
+![](./images/OpenAPI.png)
+
 See [Installation](#installation) section for instructions on how to install and setup this project for local development.
 
 ## Notes on Philippine Standard Geographic Code Revision 1
